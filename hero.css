@@ -1,9 +1,9 @@
 @font-face{
-    src: url(fonts/bignoodletoo.ttf);
+    src: url(Fonts/bignoodletoo.ttf);
     font-family: "Overwatch";
 }
 @font-face{
-    src: url(fonts/koverwatch.ttf);
+    src: url(Fonts/koverwatch.ttf);
     font-family: "Koverwatch";
 }
 
