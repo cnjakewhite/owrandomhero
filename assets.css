@@ -1,0 +1,39 @@
+.option.genji{ background-image: url("main/char-Icons/genji.png"); }
+.option.mccree{ background-image: url("main/char-Icons/mccree.png"); }
+.option.pharah{ background-image: url("main/char-Icons/pharah.png"); }
+.option.reaper{ background-image: url("main/char-Icons/reaper.png"); }
+.option.soldier-76{ background-image: url("main/char-Icons/soldier.png"); }
+.option.sombra{ background-image: url("main/char-Icons/sombra.png"); }
+.option.tracer{ background-image: url("main/char-Icons/tracer.png"); }
+.option.bastion{ background-image: url("main/char-Icons/bastion.png"); }
+.option.hanzo{ background-image: url("main/char-Icons/hanzo.png"); }
+.option.junkrat{ background-image: url("main/char-Icons/junkrat.png"); }
+.option.mei{ background-image: url("main/char-Icons/mei.png"); }
+.option.torbjorn{ background-image: url("main/char-Icons/tob.png"); }
+.option.widowmaker{ background-image: url("main/char-Icons/widow.png"); }
+.option.dva{ background-image: url("main/char-Icons/dva.png"); }
+.option.orisa{ background-image: url("main/char-Icons/orisa.png"); }
+.option.reinhardt{ background-image: url("main/char-Icons/rein.png"); }
+.option.roadhog{ background-image: url("main/char-Icons/roadhog.png"); }
+.option.winston{ background-image: url("main/char-Icons/winston.png"); }
+.option.zarya{ background-image: url("main/char-Icons/zarya.png"); }
+.option.ana{ background-image: url("main/char-Icons/ana.png"); }
+.option.lucio{ background-image: url("main/char-Icons/lucio.png"); }
+.option.mercy{ background-image: url("main/char-Icons/mercy.png"); }
+.option.symmetra{ background-image: url("main/char-Icons/sym.png"); }
+.option.zenyatta{ background-image: url("main/char-Icons/zenyatta.png"); }
+.option.brigitte{ background-image: url("main/char-Icons/brigitte.png"); }
+.option.doomfist{ background-image: url("main/char-Icons/doomfist.png"); }
+.option.moira { background-image: url("main/char-Icons/Moira.png"); }
+.option.ashe { background-image: url("main/char-Icons/ashe.png"); }
+.option.baptiste { background-image: url("main/char-Icons/baptiste.png"); }
+.option.wreckingball { background-image: url("main/char-Icons/ham.png"); }
+.option.sigma { background-image: url("main/char-Icons/sigma.png"); }
+.option.echo { background-image: url("main/char-Icons/echo.png"); }
+
+
+.unavailable {
+    pointer-events: none;
+    background-color: grey;
+    background-image: none !important;
+}
